@@ -35,11 +35,13 @@ UDataTable* AFighterPlayerController::GetDataTableFromGameInstance()
 
 		FString FinalPathTwo = FinalFilePath.Append((TEXT("%s"), *GameInstance->MyFighterName));
 
-		FString FinalPathThree = FinalPathTwo.Append("'");
+		FinalFilePath.Reset();
 
-		UE_LOG(LogTemp, Warning, TEXT("%s"), *FinalPathThree);
+		FinalFilePath = FinalPathTwo.Append("'");
+
+		UE_LOG(LogTemp, Warning, TEXT("%s"), *FinalFilePath);
 		
-		MovesInfo = LoadObject<UDataTable>(nullptr, (TEXT("%s"), *FinalPathThree));
+		MovesInfo = LoadObject<UDataTable>(nullptr, (TEXT("%s"), *FinalFilePath));
 	
 		//MovesInfo = LoadObject<UDataTable>(nullptr, TEXT("'/Game/ThirdPersonCPP/Data/DT_KushaMoveset.DT_KushaMoveset'"));
 
