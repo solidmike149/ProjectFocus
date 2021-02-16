@@ -16,7 +16,7 @@ void AFighterPlayerController::BeginPlay()
 {
 	Super::BeginPlay();
 
-	GetDataTableFromGameInstance();
+	//GetDataTableFromGameInstance();
 
 }
 
