@@ -6,37 +6,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bfcd1d-f198-4f75-8dca-3468e27723b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EAttribute.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentLog.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FTurnLog.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/UIToModify.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/MainMenu.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/NewMaterial.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_MainMenu.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_GameInstance.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_MyPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_MyPlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EDamage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EArena.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EArena.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/ECombo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/ECombo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EDamageType.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GM.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GS.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/PS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/PS.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/SMove.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/SSegmentLog.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/STurnLog.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DA_FighterInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DA_FighterInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FCombatLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FCombatLog.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentLog.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FTurnLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FTurnLog.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kirk.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kirk.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kusha.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kusha.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Lady.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Levine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Sam.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Lady.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Lady.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Levine.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Levine.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Sam.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Sam.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/CharacterScreen.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/CharacterScreen.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/BP_ImageDragDrop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/BP_ImageDragDrop.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/USkillData.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_ActionBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_ActionBar.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_Card.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_Card.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_CharacterScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_CharacterScreen.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_FightWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_FightWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_LoadingScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_LoadingScreen.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectFocus.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectFocus.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/GICpp.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/GICpp.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusGameMode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusCharacter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Private/KismetSystemLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusGameMode.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectFocus/ProjectFocus.Build.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Private/KismetStringLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Kismet/KismetSystemLibrary.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.h" />
+      <option value="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.h" />
+      <option value="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.cpp" />
+      <option value="$PROJECT_DIR$/Source/ProjectFocus/GICpp.h" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1osJpc4134xWIhtX9VUpRlCkIls" />

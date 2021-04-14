@@ -63,9 +63,6 @@ public:
 
 	virtual void BeginPlay() override;
 
-	UFUNCTION()
-	UDataTable* GetDataTableFromGameInstance();
-	
 	UPROPERTY(BlueprintReadOnly,EditAnywhere)
 	class UDataTable* MovesInfo;
 

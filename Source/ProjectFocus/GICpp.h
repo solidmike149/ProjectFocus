@@ -16,9 +16,4 @@ class PROJECTFOCUS_API UGICpp : public UGameInstance
 
 public:
 
-	UPROPERTY(BlueprintReadWrite)
-	FString MyFighterName;
-
-	UPROPERTY(BlueprintReadWrite)
-	FString TheirFighterName;
 };
