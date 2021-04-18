@@ -3,3 +3,7 @@
 
 #include "FocusGameMode.h"
 
+void AFocusGameMode::ProcessTurn()
+{
+	
+}
