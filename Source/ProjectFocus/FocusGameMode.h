@@ -6,7 +6,7 @@
 #include "GameFramework/GameModeBase.h"
 #include "FocusGameMode.generated.h"
 
-UENUM()
+UENUM(BlueprintType)
 enum class EHitPosition : uint8
 {
 	None			UMETA(DisplayName = "None"),
@@ -15,19 +15,19 @@ enum class EHitPosition : uint8
 	Low				UMETA(DisplayName = "Low"),
 };
 
-UENUM()
+UENUM(BlueprintType)
 enum class EComboType : uint8
 {
 	NoCombo				UMETA(DisplayName = "NoCombo"),
-	FocusHeal			UMETA(DisplayName = "FocusHeal"),
-	HeatHeal			UMETA(DisplayName = "HeatHeal"),
-	FocusDamage			UMETA(DisplayName = "FocusDamage"),
-	FocusStrike			UMETA(DisplayName = "FocusStrike"),
-	HeatDamage			UMETA(DisplayName = "HeatDamage"),
-	HeatStrike			UMETA(DisplayName = "HeatStrike")
+	FH					UMETA(DisplayName = "FocusHeal"),
+	HH					UMETA(DisplayName = "HeatHeal"),
+	FD					UMETA(DisplayName = "FocusDamage"),
+	FS					UMETA(DisplayName = "FocusStrike"),
+	HD					UMETA(DisplayName = "HeatDamage"),
+	HS					UMETA(DisplayName = "HeatStrike")
 };
 
-UENUM()
+UENUM(BlueprintType)
 enum class EFighter : uint8
 {
 	NoFighter			UMETA(DisplayName = "NoFighter"),

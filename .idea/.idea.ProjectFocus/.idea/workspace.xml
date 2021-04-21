@@ -5,110 +5,204 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a581d40a-d938-4314-ab65-d74046f83b26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Pillar_50x500.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_400x200.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_400x300.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_400x400.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_500x500.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/Advanced_Lighting.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/StarterMap.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/MaterialSphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Bush.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Chair.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Door.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Frame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Lamp.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Rock.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Shelf.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_Statue.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/Materials/M_TableRound.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Bush.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Chair.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_CornerFrame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Couch.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Door.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_DoorFrame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_GlassWindow.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Lamp_Wall.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_PillarFrame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_PillarFrame300.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Rock.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Shelf.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Stairs.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_Statue.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_TableRound.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Props/SM_WindowFrame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Cone.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Cube.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Cylinder.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Pipe.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Plane.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Sphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Torus.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Trim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Tube.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FPlayerLog.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentsLog.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Arenas/Geometry/Meshes/1M_Cube.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Arenas/Geometry/Meshes/CubeMaterial.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Arenas/Geometry/Meshes/TemplateFloor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPersonIdle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPersonJump_End.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPersonJump_Loop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPersonJump_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPersonRun.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPersonWalk.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPerson_AnimBP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Animations/ThirdPerson_Jump.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/M_UE4Man_Body.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Mesh/SK_Mannequin.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/TEMP/T_Explosion_SubUV.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/TEMP/T_Fire_SubUV.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/TEMP/image1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/TEMP/image1_Mat.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/indicazione_parry_medio.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/luce_alto_medio_basso.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/luce_alto_medio_basso_big.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/BP_GameInstance.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/BP_MyPlayerController.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Fighter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EArena.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EAttribute.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/ECombo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EFighter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EGameStatus.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EHitPosition.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EParry.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EPerfectParry.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/EPlayerToReset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Enum/UIToModify.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/GS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Struct/FCombo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/AnimationTest.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Bars/WBP_ActionBar.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Bars/WBP_AttributeBars_Base.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Bars/WBP_AttributeBars_Enemy.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Bars/WBP_AttributeBars_Player.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Card/WBO_ExpandedCard.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Card/WBP_CardBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Card/WBP_Card_Move.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Card/WBP_Card_OLD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Card/WBP_Card_Parry.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/DragAndDrop/BP_ImageDragDrop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/DragAndDrop/WBP_DraggingItem.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/Enum/EBars.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/WBP_Countdown.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/WBP_FightWidget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/WBP_FightWidget_OLD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/WBP_LoadingScreen.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Core/UI/WBP_MainMenu.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Focus/Maps/MainMenu.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFocus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_MyPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_MyPlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GM.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GS.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/PS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/PS.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FCombatLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FCombatLog.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FMove.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FMove.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentLog.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FTurnLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FTurnLog.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kirk.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kirk.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kusha.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kusha.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Lady.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Lady.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Levine.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Levine.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Sam.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Sam.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/BP_ImageDragDrop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/BP_ImageDragDrop.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_ActionBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_ActionBar.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_Card.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_Card.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_FightWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_FightWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectFocus.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectFocus.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FighterInfoDataAsset.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FighterPlayerController.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Geometry/Meshes/1M_Cube.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Geometry/Meshes/CubeMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Geometry/Meshes/TemplateFloor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonIdle.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonRun.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonWalk.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/Characters/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Movies/fight_da_blender0001-0180.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/Fighter/Fighter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_GameInstance.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/BP_MyPlayerController.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EArena.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EAttribute.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/ECombo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EDamageType.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EFighter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EGameStatus.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EHitPosition.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EParry.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EPerfectParry.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/EPlayerToReset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Enum/UIToModify.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/GM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/GS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/PS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/PS.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FCombatLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Struct/FCombatLog.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FCombo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FMove.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Struct/FMove.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FPlayerLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Struct/FPlayerLog.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentLog.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FSegmentsLog.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Core/Net/Struct/FSegmentsLog.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Core/Struct/FTurnLog.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DA_FighterInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Data/DA_FighterInfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kirk.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Data/DT_Kirk.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Kusha.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Data/DT_Kusha.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Lady.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Data/DT_Lady.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Levine.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Data/DT_Levine.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Data/DT_Sam.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Data/DT_Sam.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/DkcForever-ZGXq.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/DkcForever-ZGXq.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/DkcForever-ZGXq_Font.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/DkcForever-ZGXq_Font.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/KickImage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/CharacterScreen.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/MainMenu.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/NewMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/BP_ImageDragDrop.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIActionBar/Action_Bar_in_tre_segmenti_da_riempire_durante_la_fase_di_selezione_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIActionBar/Action_Bar_in_tre_segmenti_da_riempire_durante_la_fase_di_selezione_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIActionBar/Spazio_Descrittivo_durante_la__Counter_Phase___.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIActionBar/Spazio_Descrittivo_durante_la__Counter_Phase___.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIActionBar/esempio_posizione_action_bar_nello_spazio_descrittivo_durante_counter_phase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIActionBar/esempio_posizione_action_bar_nello_spazio_descrittivo_durante_counter_phase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/Heat_and_Focus_bar_player_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/Heat_and_Focus_bar_player_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/Heat_and_Focus_bar_player_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/Heat_and_Focus_bar_player_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/P1_focus_blocked_player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/P1_focus_blocked_player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/P1_heat_blocked.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/P1_heat_blocked.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/P2_focus_blocked_player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/P2_focus_blocked_player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/P2_heat_blocked.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/P2_heat_blocked.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/barre_riempimento_focus_player_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/barre_riempimento_focus_player_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/barre_riempimento_focus_player_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/barre_riempimento_focus_player_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/barre_riempimento_heat_player_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/barre_riempimento_heat_player_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/barre_riempimento_heat_player_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/barre_riempimento_heat_player_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/deck_button_player_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/deck_button_player_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIBars/hbpotenzialeTEMP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIBars/hbpotenzialeTEMP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Alone_Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Alone_Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Alone_Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__SMALL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Alone_Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__SMALL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__SMALL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Carta_Mossa__limitata__estesa_con_indicatore_Focus_x_utilizzo__SMALL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Carta_Mossa_estesa_normale__subito_utilizzabile_e_senza_vincoli__SMALL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Carta_Mossa_estesa_normale__subito_utilizzabile_e_senza_vincoli__SMALL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Carta_Mossa_limitata_ridotta_bloccata_per_Focus_richiesto_non_ancora_raggiunto.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Carta_Mossa_limitata_ridotta_bloccata_per_Focus_richiesto_non_ancora_raggiunto.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Focus_Activation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Focus_Activation.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Focus_Activation_Overheat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Focus_Activation_Overheat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Spazio_del_Moveset_del_giocatore_avversario_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Spazio_del_Moveset_del_giocatore_avversario_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/Spazio_del_Moveset_del_player__.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/Spazio_del_Moveset_del_player__.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/alone_carta_mossa_limitata_ridotta.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/alone_carta_mossa_limitata_ridotta.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/base_parry.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/base_parry.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/base_parry_overheat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/base_parry_overheat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/carta_mossa_limitata_ridotta_ESEMPIO_MONTATO.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/carta_mossa_limitata_ridotta_ESEMPIO_MONTATO.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/carta_mossa_normale_ridotta.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/carta_mossa_normale_ridotta.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/esempio_luce_alto_medio_basso.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/esempio_luce_alto_medio_basso.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/indicazione_parry_alto.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/indicazione_parry_alto.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/indicazione_parry_basso.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/indicazione_parry_basso.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/indicazione_parry_medio.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/luce_alto_medio_basso.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/luce_alto_medio_basso_big.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/luce_parry.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/luce_parry.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/ridotta_bloccata_per_eccessivo_costo_in_Heat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/ridotta_bloccata_per_eccessivo_costo_in_Heat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/schermo_laterale_carta_aperta.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/schermo_laterale_carta_aperta.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/segnalino_costo_in_heat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/segnalino_costo_in_heat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/segnalino_danno_bonus.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/segnalino_danno_bonus.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UICards/segnalino_focus_ricaricato.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UICards/segnalino_focus_ricaricato.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sul_Damage_o_sullo_Strike.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sul_Damage_o_sullo_Strike.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sul_Focus.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sul_Focus.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sull_Healing.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sull_Healing.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sulla_Heat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UIFightingStyles/Icona_stile_di_combattimento_incentrato_sulla_Heat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UITimer/Timer_90_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UITimer/Timer_90_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UITimer/Timer_in_scadenza__ultimi_15___azzurro.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UITimer/Timer_in_scadenza__ultimi_15___azzurro.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/UITimer/Timer_in_scadenza__ultimi_15___rosso.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/UITimer/Timer_in_scadenza__ultimi_15___rosso.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/check_v2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/check_v2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/empty__main_player_p1_.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/overheat_cursor_enemy_p2_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/overheat_cursor_enemy_p2_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/UIAssets/overheat_cursor_main_player_p1_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Focus/Art/UI/overheat_cursor_main_player_p1_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_ActionBar.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_Card.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_CharacterScreen.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_Countdown.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_DraggingItem.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_FightWidget.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_LoadingScreen.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_MainMenu.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/UI/WBP_WidgetToMerge.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectFocus/FocusGameMode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/GICpp.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/GICpp.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusCharacter.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusCharacter.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusGameMode.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ProjectFocus/ProjectFocusGameMode.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +397,7 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
