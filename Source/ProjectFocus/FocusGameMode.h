@@ -19,12 +19,12 @@ UENUM(BlueprintType)
 enum class EComboType : uint8
 {
 	NoCombo				UMETA(DisplayName = "NoCombo"),
-	FH					UMETA(DisplayName = "FocusHeal"),
-	HH					UMETA(DisplayName = "HeatHeal"),
-	FD					UMETA(DisplayName = "FocusDamage"),
-	FS					UMETA(DisplayName = "FocusStrike"),
-	HD					UMETA(DisplayName = "HeatDamage"),
-	HS					UMETA(DisplayName = "HeatStrike")
+	Fh					UMETA(DisplayName = "FocusHeal"),
+	Hh					UMETA(DisplayName = "HeatHeal"),
+	Fd					UMETA(DisplayName = "FocusDamage"),
+	Fs					UMETA(DisplayName = "FocusStrike"),
+	Hd					UMETA(DisplayName = "HeatDamage"),
+	Hs					UMETA(DisplayName = "HeatStrike")
 };
 
 UENUM(BlueprintType)
@@ -46,6 +46,12 @@ struct FCombo
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	int32 Segment;
+
+	FCombo()
+	{
+		ComboType = EComboType::NoCombo;
+		Segment = 0;
+	}
 };
 
 USTRUCT(BlueprintType)
@@ -79,6 +85,18 @@ struct FMove
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	TArray<FCombo> Combos;
+
+	FMove()
+	{
+		NomeMossa = ("None");
+		HitPosition = EHitPosition::None;
+		FocusToUnlock = 0;
+		FocusRecharge = 0;
+		HeatCost = 0;
+		LowDamage = 0;
+		HighDamage = 0;
+		BonusDamage = 0;
+	}
 };
 
 USTRUCT(BlueprintType)
@@ -97,6 +115,17 @@ struct FPlayerLog
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	int32 FocusChange;
+
+	FPlayerLog()
+	{
+		Fighter = EFighter::NoFighter;
+
+		HeatChange = 0;
+
+		DamageInflicted = 0;
+
+		FocusChange = 0;
+	}
 	
 };
 
@@ -113,6 +142,15 @@ struct FSegmentLog
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	bool bSameSpeed;
+
+	FSegmentLog()
+	{
+		FasterPlayer = FPlayerLog();
+
+		SlowerPlayer = FPlayerLog();
+
+		bSameSpeed = false;
+	}
 };
 
 USTRUCT(BlueprintType)
@@ -128,7 +166,13 @@ struct FTurnLog
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	EComboType Fighter1Combo;
-	
+
+	FTurnLog()
+	{
+		Fighter0Combo = EComboType::NoCombo;
+
+		Fighter1Combo = EComboType::NoCombo;
+	}
 };
 /**
  * 
