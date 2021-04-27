@@ -182,9 +182,18 @@ class PROJECTFOCUS_API AFocusGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
-	void ProcessTurn();
+	AFocusGameMode();
 	
 public:
+	
+	UFUNCTION(BlueprintCallable)
+	void ProcessTurn();
+
+	void ParryCheck(int32 Index, int32 HeatCost0, int32 HeatCost1, TArray<FSegmentLog>& Turns,
+																	TArray<EFighter>& PerfectParries,
+																	int32& Fighter0PerfectParryCounter,
+																	int32& Fighter1PerfectParryCounter,
+																	bool& bIsComboImpossible);
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	TArray<FMove> Fighter0Moveset;
@@ -197,7 +206,13 @@ public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	EFighter PlayerToHeatReset;
-	
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	TArray<FMove> Fighter0ActionBar;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	TArray<FMove> Fighter1ActionBar;
+
 	//UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	//TArray<EFighter> PerfectParryLog;
 };
